@@ -1,0 +1,7 @@
+{
+  "name": "cursoLucas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
